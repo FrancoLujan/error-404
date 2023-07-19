@@ -14,7 +14,7 @@
     .contenedor{
         flex-wrap: wrap;
         justify-content: center;
-        width: min-content;
+        width: 100vw;
         gap: 50px;
         margin-top: 55px;
     }
