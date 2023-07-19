@@ -1,0 +1,15 @@
+.contenedor__caja{
+    width: 50%;
+}
+.contenedor__caja img{
+    width: min-content;
+}
+
+@media screen and (max-width:700px) {
+    .contenedor__caja{
+        width: 100vw;
+        display: flex;
+        justify-content: center;
+    }
+    
+}
